@@ -1,0 +1,20 @@
+1. What are Data Types?
+2. What does immutable mean and what three types of Python core data types are considered immutable?
+3. What does sequence mean and which three types of data fall into this category?
+4. Why are these data types known as Python’s core data types?
+5. What is Python Operator?
+6. What is Membership Python Operator?
+7. What is Python Identity Operator?
+8. What does != Mean in Python?
+9. What is not operator in Python?
+10. Explain Floor-Divide and Assign Operator in Python?
+11. What constitutes “True” in Python?
+12. How are if, elif, and else blocks defined?
+13. What are the comparison operators in Python?
+14. What are the three main conditional statements in Python?
+15. What keyword is used for looping?
+16. What keyword is used to skip back to the beginning of a loop?
+17. Name the 2 keywords used for looping?
+18. What are the key features of Python?
+19. How would you convert a string into lowercase?
+20. What is the pass statement in Python?
